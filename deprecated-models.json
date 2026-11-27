@@ -1,26 +1,4 @@
 {
-  "deepseek-v4.1-flash-1017": {
-    "id": "deepseek-v4.1-flash-1017",
-    "name": "Deepseek V4.1 Flash 1017",
-    "reasoning": false,
-    "input": [
-      "text"
-    ],
-    "cost": {
-      "input": 0.09,
-      "output": 0.36,
-      "cacheRead": 0.0018,
-      "cacheWrite": 0
-    },
-    "contextWindow": 1048576,
-    "maxTokens": 393216,
-    "compat": {
-      "maxTokensField": "max_completion_tokens",
-      "supportsDeveloperRole": false,
-      "supportsStore": false
-    },
-    "deprecatedAt": "2026-11-27T08:21:55.959Z"
-  },
   "claude-fable-5.1": {
     "id": "claude-fable-5.1",
     "name": "Claude Fable 5.1",
