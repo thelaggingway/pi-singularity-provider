@@ -86,10 +86,10 @@ Get your API key at [app.singularityapi.dev](https://app.singularityapi.dev) (AP
 
 | Model | Context | Reasoning | Input | Max Output | Input $/M | Cached $/M | Output $/M |
 |-------|---------|-----------|-------|------------|-----------|------------|-------------|
-| Claude Fable 5.1 | 1M | ✅ | Text | 128K | $10.00 | $0.15 | $50.00 |
-| Claude Haiku 5.5 | 1M | ❌ | Text | 128K | $0.10 | $0.006 | $0.50 |
-| Claude Opus 5.5 | 1M | ✅ | Text | 128K | $3.00 | $0.12 | $16.00 |
-| Claude Sonnet 5.5 | 1M | ✅ | Text | 128K | $2.00 | $0.12 | $10.00 |
+| Claude Fable 5.1 | 1M | ❌ | Text | 128K | $10.00 | $0.15 | $50.00 |
+| Claude Haiku 5 5 | 1M | ❌ | Text | 128K | $0.10 | $0.006 | $0.50 |
+| Claude Opus 5 5 | 1M | ❌ | Text | 128K | $3.00 | $0.12 | $16.00 |
+| Claude Sonnet 5 5 | 1M | ❌ | Text | 128K | $2.00 | $0.12 | $10.00 |
 | DeepSeek V3.2 | 128K | ✅ | Text | 128K | $0.186 | — | $0.28 |
 | DeepSeek V4 Flash | 1M | ✅ | Text | 384K | $0.081 | $0.007 | $0.162 |
 | DeepSeek V4 Flash 0731 | 1M | ✅ | Text | 384K | $0.20 | $0.007 | $0.50 |
